@@ -1,0 +1,16 @@
+{
+  "name": "js-alg-ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-array-generator": "^1.0.0",
+    "microprofiler": "^1.0.4"
+  }
+}
